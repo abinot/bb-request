@@ -54,8 +54,8 @@ After that, it is time to process the information and request=>
 <br>
 
 ##  updates & events 🎉
+All content related to this project and blogs are uploaded on the  **[Abinot blog](https://Abinot.com/blog)**
 
-Documente seus projetos com nossos exemplos de **[templates de repositório](https://github.com/iuricode/readme-template/tree/main/repositorio)** incríveis. Esses templates abrangem diversas seções essenciais, incluindo descrição, instalação, uso, contribuição e licença.
 
 ## why? 🦄
 
