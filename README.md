@@ -12,6 +12,46 @@ Bem-vindo(a) ao **Readme Template**! Aqui você encontrará uma variedade de mod
 4. why? => connect to all in abinot
 <br>
 Diga adeus aos perfis sem graça. Com nossos , você terá um readme de perfil íncrivel. Com cores vibrantes,imagens surpreendentes e outros elementos visuais cativantes.
+<br>
+<br>in “r” directory =>
+<br>/5048
+<br>/5047
+<br>/5046
+<br>and other
+<br><=
+
+<br>
+<br>your directory is in all “r”s direcrory 
+<br>
+<br>in all directory of  “r” =>
+<br>ab
+<br>dipper
+<br>p
+<br>amir
+<br>matin
+<br><=
+<br>
+<br>your request go to your privet directory
+<br>if your name is “ab” go to “ab” dir
+<br>if your name is “example” go to “example” dir
+<br>
+<br>in your privet directory =>
+<br>0000000.php
+<br>0000001.php
+<br>0000002.php
+<br>0000003.php
+<br>0000004.php
+<br>
+0000005.php
+<br>
+...... 7775048.php
+<br>
+<=
+<br>
+And this way your information will be found in the safest and fastest way
+<br>
+After that, it is time to process the information and request=>
+<br>
 
 ##  updates & events 🎉
 
