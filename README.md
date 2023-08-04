@@ -4,10 +4,13 @@ Bem-vindo(a) ao **Readme Template**! Aqui você encontrará uma variedade de mod
 
 ## how it work ? ☕️
 1 . login & request **[black badge request ](https://abinot.com/u/login.php)**
+<br>
 2 . if entered password and username ==== password and username  => Redirect to d.php
+<br>
 3. whats d.php ? => dashbord for all task (geting help , send file , chat , connect , hack , develop , ...)
+<br>
 4. why? => connect to all in abinot
-
+<br>
 Diga adeus aos perfis sem graça. Com nossos , você terá um readme de perfil íncrivel. Com cores vibrantes,imagens surpreendentes e outros elementos visuais cativantes.
 
 ##  updates & events 🎉
